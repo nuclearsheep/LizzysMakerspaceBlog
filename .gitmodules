@@ -1,0 +1,9 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "/home/opperator/quickstart/themes/anake.git"]
+	path = /home/opperator/quickstart/themes/anake.git
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "/home/opperator/quickstart/themes/anake"]
+	path = /home/opperator/quickstart/themes/anake
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
