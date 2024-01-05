@@ -1,7 +1,7 @@
 baseURL = 'https://lizzys-makerspace.io/'
 languageCode = 'en-us'
 title = 'Lizzys Makerspace'
-theme = 'anake'
+theme = 'ananke'
 
 SectionPagesMenu = "main"
 Paginate = 4
